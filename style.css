@@ -159,3 +159,9 @@ p {
 .temperature {
   color: #686f81;
 }
+
+#footer {
+  font-size: 10px;
+  text-align: center;
+  font-weight: 500;
+}
